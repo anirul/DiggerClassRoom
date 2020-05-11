@@ -18,6 +18,15 @@
 
 # Fortran module files
 *.mod
+.vs
+*.sln
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Output
+Content/KiteDemo
+Build
 
 # Compiled Static libraries
 *.lai
